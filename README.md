@@ -5,6 +5,8 @@ This repository holds exercises made in Groovy.
 1. groovy-tutorials
 	* Maps
 	* Lists
+	* Substrings
+	* Arrays
 
 More stuff coming...
 
